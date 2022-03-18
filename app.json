@@ -1,0 +1,47 @@
+{
+
+    "name": "Deleter",
+
+    "description": "Made For Afim Wala",
+
+
+
+    "keywords": [
+
+        "telegram",
+
+        "telethon",
+
+        "telegram-bot",
+
+        "BeastX_Bots"
+
+    ],
+
+    "repository": "https://github.com/msy1717/GroupDeleter",
+
+    "success_url": "https://t.me/BeastX_Bots",
+
+    "env": {
+
+        "BOT_TOKEN": {
+
+            "description": "Bot token, get it from @BotFather.",
+
+            "value": ""
+
+        }
+
+    },
+
+    "buildpacks": [
+
+        {
+
+            "url": "heroku/python"
+
+        }
+
+    ]
+
+}
