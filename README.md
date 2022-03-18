@@ -5,4 +5,4 @@
 # Credits
 - [😈Me](https://t.me/Godmrunal)
 
-• paid bot made for @Crackxy by @Godmrunal
+• paid bot made by @Godmrunal
