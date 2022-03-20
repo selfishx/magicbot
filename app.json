@@ -1,6 +1,6 @@
 {
 
-    "name": "Deleter",
+    "name": "Group Deleter",
 
     "description": "Made For Afim Wala",
 
@@ -18,9 +18,9 @@
 
     ],
 
-    "repository": "https://github.com/msy1717/GroupDeleter",
+    "repository": "https://github.com/The-Death-Soul/Group-Deleter",
 
-    "success_url": "https://t.me/BeastX_Bots",
+    "success_url": "https://t.me/Love_Dear_Comrades",
 
     "env": {
 
