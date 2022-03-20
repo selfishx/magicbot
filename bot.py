@@ -1,4 +1,4 @@
-# < (c) 2021 @Godmrunal >
+# < (c) 2021 @The_Death_Soul >
 
 import logging
 
@@ -40,6 +40,6 @@ async def mrunal(event):
 
                 
 
-logging.info("\n\nBot has started.\n(c) @Godmrunal")
+logging.info("\n\nBot has started.\n(c) @The_Death_Soul")
 
 bot.run_until_disconnected()
