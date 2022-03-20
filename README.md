@@ -3,6 +3,6 @@
 
 
 # Credits
-- [😈Me](https://t.me/Godmrunal)
+- [😈Me](https://t.me/The_Death_Soul)
 
-• paid bot made by @Godmrunal
+• Support Group @Love_Dear_Comrades
