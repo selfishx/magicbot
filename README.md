@@ -1,5 +1,5 @@
 # Deploying
-[![Deploy](https://heroku.com/deploy?template=https://github.com/selfishx/magicbot)
+[![Deploy]("https://heroku.com/deploy?template=https://github.com/selfishx/magicbot")
 
 
 # Credits
