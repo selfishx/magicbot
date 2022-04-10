@@ -40,6 +40,6 @@ async def mrunal(event):
 
                 
 
-logging.info("\n\nBot has started.\n(c) @The_Death_Soul")
+logging.info("\n\nBot has started.\n(c) @classy_network")
 
 bot.run_until_disconnected()
