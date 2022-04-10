@@ -3,6 +3,6 @@
 
 
 # Credits
-- [😈Me](https://t.me/The_Death_Soul)
+- [😈Me](https://t.me/classy_networm)
 
-• Support Group @Love_Dear_Comrades
+• Support Group @classy_network
